@@ -1,3 +1,3 @@
 # Basic Neural Network implementation in C++
 
-**Sooo...**
+###### This is a neural network implementation in C++
