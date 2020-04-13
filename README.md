@@ -6,8 +6,8 @@
 ##### [**How it works**](#How-it-works:)
 
 ## How to use:
-    To create and train a new Neural Network you must have two files: "topology.nn" & "learningdata.nn"
-    You can do that simlpy by executing the "createfiles.exe" program!
+  To create and train a new Neural Network you must have two files: "topology.nn" & "learningdata.nn"
+  You can do that simlpy by executing the "createfiles.exe" program!
 
 
 
