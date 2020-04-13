@@ -12,8 +12,8 @@
 #### How the "topology.nn" file works   
   ```
   	 The first line represents how many layers you want your Neural net to have (must have at least 3 NOT MORE THAN 500).
-
-	 The second line has has "amountOfLayers" positive integers that represent how many Neurons each layer has.
+     
+     The second line has has "amountOfLayers" positive integers that represent how many Neurons each layer has.
 
 		For Example:
 		
