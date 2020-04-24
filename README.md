@@ -2,8 +2,6 @@
 
 **About:** This program creates basic Neural Networks that can be trained, tested and exported.
   
-#### [**How to use**](#How-to-use:)
-#### [**How it works**](#How-it-works:)
 
 ## How to use:
   To create and train a new Neural Network you must have two files: "topology.nn" & "learningdata.nn"
