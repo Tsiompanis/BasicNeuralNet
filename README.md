@@ -1,6 +1,6 @@
 # Basic Neural Network implementation in C++
 
-**About:** This program creates basic Neural Networks that can be trained, tested and exported.
+**About:** This program creates basic artificial Neural Networks that can be trained, tested and exported.
   
 
 ## How to use:
