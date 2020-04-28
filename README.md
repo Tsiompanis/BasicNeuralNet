@@ -60,6 +60,6 @@ The rest N lines contain inputs and outputs. **Example:**
 
 **NOTE: when you export files make sure you don't have export files in the folder you run the program because these files WILL BE OVERWRITTEN.**
 
-  
+**THE DOCUMENTATION IS NOT GOOD. IF YOU FIND ANY PROBLEMS OR DONT KNOW HOW SOMETHING WORKS PLEASE WRITE AN ISSUE**
 
 ###### April 2020  [Peter Tsiompanis](https://tsiompanis.com/)
