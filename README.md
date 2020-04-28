@@ -49,7 +49,6 @@ The rest N lines contain inputs and outputs. **Example:**
 **NOTE: THE INPUT-OUTPUT VALUES MUST BE BETWEEN 0 AND 1**
 
 **NOTE: THE INPUT-OUTPUT VALUES MUST BE BETWEEN 0 AND 1**
-
 -----
 
 
@@ -59,6 +58,7 @@ The rest N lines contain inputs and outputs. **Example:**
 
 
 **NOTE: when you export files make sure you don't have export files in the folder you run the program because these files WILL BE OVERWRITTEN.**
+**THE PROGRAM IMPORTS NEURAL NETWORKS FROM THE FILES: "model.nn" & "topology_model.nn"**
 
 **THE DOCUMENTATION IS NOT GOOD. IF YOU FIND ANY PROBLEMS OR DONT KNOW HOW SOMETHING WORKS PLEASE WRITE AN ISSUE**
 
