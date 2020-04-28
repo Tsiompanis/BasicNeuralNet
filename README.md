@@ -1,6 +1,6 @@
-# Basic Neural Network implementation in C++
+# Basic Neural Network implementation in C++ (Note: this repository is not complete)
 
-**About:** A program to create, train, test, and export artificial Neural Networks. (Note: this repository is not complete)
+**About:** A program to create, train, test, and export artificial Neural Networks. 
 
 
 ## How to use:
@@ -49,6 +49,7 @@ The rest N lines contain inputs and outputs. **Example:**
 **NOTE: THE INPUT-OUTPUT VALUES MUST BE BETWEEN 0 AND 1**
 
 **NOTE: THE INPUT-OUTPUT VALUES MUST BE BETWEEN 0 AND 1**
+  
 -----
 
 
