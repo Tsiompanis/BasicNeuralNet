@@ -2,6 +2,8 @@
 
 There is a [Data set from UCI](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29) that has a record of ~700 Breast Cancer patients and data about each patients cancer and if the cancer is serious or not.
 
+IMPORTING: THE PROGRAM IMPORTS NEURAL NETWORKS FROM THE FILES: "model.nn" & "topology_model.nn"
+
 In this folder there is a trained model for classifying whether an instance of cancer is serious or not.
 
 After you import the Neural Net you can test it with values in the "testingdata.nn" file.
