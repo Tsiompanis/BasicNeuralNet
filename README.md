@@ -13,7 +13,7 @@ To create and train a new Neural Network you must have two files: **"topology.nn
 
 #### How the "topology.nn" file works:
 
-In the first line of the topology file you must state **how many layers deep** you want your Neural Network to be (N). The second line must contain **N integers (one for every layer) that state how many Neurons you want each layer to have**. **For Example:**
+In the first line of the topology file you must state **how many layers deep** you want your Neural Network to be (N). The second line must contain **N integers (one for every layer) that state how many Neurons you want each layer to have**. **For example:**
 
 ```4			The Neural Network is going to have 4 layers 
 4	The Neural Network is going to have 4 layers 
@@ -33,7 +33,7 @@ After the "topology.nn" file is created you must edit the **"learningdata.nn"** 
 
 #### How the "learningdata.nn" file works:
 
-In the first line of the learningdata you must state: How how large (N) your data set is (see example), how many inputs you give (I) and how many target outputs outputs you give (O).
+In the first line of the learningdata you must state: How large (N) your data set is (see example), how many inputs you give (I) and how many target outputs you give (O).
 
 The rest N lines contain inputs and outputs. **Example:**
 
@@ -61,6 +61,6 @@ The rest N lines contain inputs and outputs. **Example:**
 **NOTE: when you export files make sure you don't have export files in the folder you run the program because these files WILL BE OVERWRITTEN.**
 **THE PROGRAM IMPORTS NEURAL NETWORKS FROM THE FILES: "model.nn" & "topology_model.nn"**
 
-**THE DOCUMENTATION IS NOT GOOD. IF YOU FIND ANY PROBLEMS OR DONT KNOW HOW SOMETHING WORKS PLEASE WRITE AN ISSUE**
+**THE DOCUMENTATION IS NOT GOOD. IF YOU FIND ANY PROBLEMS OR DONT KNOW HOW SOMETHING WORKS PLEASE WRITE AN ISSUE.**
 
 ###### April 2020  [Peter Tsiompanis](https://tsiompanis.com/)
